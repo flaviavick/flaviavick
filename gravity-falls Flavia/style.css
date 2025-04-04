@@ -1,0 +1,44 @@
+#inicio{
+    background-color:rgb(21, 94, 149);
+    color: aliceblue;
+}
+body{
+    text-align: center;
+}
+p{
+    text-align:center;
+}
+#meio{
+    background-color:rgb(106, 128, 185);
+}
+#metade{
+    background-color:rgb(246, 199, 148);
+}
+#rodape{
+    background-color:rgb(255, 246, 179);
+    color: black;
+}
+#subtitulo{ 
+    color: aliceblue;
+}
+#meio{
+    color: aliceblue;
+}
+#titulo{
+    color: aliceblue;
+}
+#inicio{
+    color: aliceblue;
+}
+#lll{
+    color: black;
+}
+#ok{
+    color: black;
+}
+#final{
+    color: black;
+}
+#okk{
+    color: black;
+}
